@@ -1,0 +1,11 @@
+name.firstName, name.lastName, age, address.line1, address.line2, address.city, address.state, gender
+Rohit, Prasad, 35, A-563 Rakshak Society, New Pune Road, Pune, Maharashtra, male
+Amit, Sharma, 28, B-42 Sunshine Apartments, MG Road, Bangalore, Karnataka, male
+Priya, Patel, 42, C-101 Green Valley, Andheri East, Mumbai, Maharashtra, female
+Neha, Singh, 19, D-78 Riverdale Colony, Civil Lines, Delhi, Delhi, female
+Rahul, Kumar, 55, E-22 Mountain View, Sector 15, Chandigarh, Punjab, male
+Ananya, Gupta, 31, F-56 Blue Hills, Salt Lake, Kolkata, West Bengal, female
+Vikram, Reddy, 67, G-33 Palm Grove, Jubilee Hills, Hyderabad, Telangana, male
+Deepika, Nair, 23, H-12 Sunshine Villas, Koramangala, Bangalore, Karnataka, female
+Rajesh, Tiwari, 48, I-89 Golden Heights, Shivaji Nagar, Pune, Maharashtra, male
+Sunita, Verma, 72, J-45 Silver Oaks, Malviya Nagar, Jaipur, Rajasthan, female

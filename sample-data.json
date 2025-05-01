@@ -1,0 +1,142 @@
+[
+  {
+    "name": {
+      "firstName": "Rohit",
+      "lastName": "Prasad"
+    },
+    "age": 35,
+    "address": {
+      "line1": "A-563 Rakshak Society",
+      "line2": "New Pune Road",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "gender": "male"
+  },
+  {
+    "name": {
+      "firstName": "Amit",
+      "lastName": "Sharma"
+    },
+    "age": 28,
+    "address": {
+      "line1": "B-42 Sunshine Apartments",
+      "line2": "MG Road",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "gender": "male"
+  },
+  {
+    "name": {
+      "firstName": "Priya",
+      "lastName": "Patel"
+    },
+    "age": 42,
+    "address": {
+      "line1": "C-101 Green Valley",
+      "line2": "Andheri East",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "gender": "female"
+  },
+  {
+    "name": {
+      "firstName": "Neha",
+      "lastName": "Singh"
+    },
+    "age": 19,
+    "address": {
+      "line1": "D-78 Riverdale Colony",
+      "line2": "Civil Lines",
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "gender": "female"
+  },
+  {
+    "name": {
+      "firstName": "Rahul",
+      "lastName": "Kumar"
+    },
+    "age": 55,
+    "address": {
+      "line1": "E-22 Mountain View",
+      "line2": "Sector 15",
+      "city": "Chandigarh",
+      "state": "Punjab"
+    },
+    "gender": "male"
+  },
+  {
+    "name": {
+      "firstName": "Ananya",
+      "lastName": "Gupta"
+    },
+    "age": 31,
+    "address": {
+      "line1": "F-56 Blue Hills",
+      "line2": "Salt Lake",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "gender": "female"
+  },
+  {
+    "name": {
+      "firstName": "Vikram",
+      "lastName": "Reddy"
+    },
+    "age": 67,
+    "address": {
+      "line1": "G-33 Palm Grove",
+      "line2": "Jubilee Hills",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "gender": "male"
+  },
+  {
+    "name": {
+      "firstName": "Deepika",
+      "lastName": "Nair"
+    },
+    "age": 23,
+    "address": {
+      "line1": "H-12 Sunshine Villas",
+      "line2": "Koramangala",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "gender": "female"
+  },
+  {
+    "name": {
+      "firstName": "Rajesh",
+      "lastName": "Tiwari"
+    },
+    "age": 48,
+    "address": {
+      "line1": "I-89 Golden Heights",
+      "line2": "Shivaji Nagar",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "gender": "male"
+  },
+  {
+    "name": {
+      "firstName": "Sunita",
+      "lastName": "Verma"
+    },
+    "age": 72,
+    "address": {
+      "line1": "J-45 Silver Oaks",
+      "line2": "Malviya Nagar",
+      "city": "Jaipur",
+      "state": "Rajasthan"
+    },
+    "gender": "female"
+  }
+]
