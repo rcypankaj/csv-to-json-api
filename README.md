@@ -33,11 +33,13 @@ A Node.js application that converts CSV files to JSON and stores the data in a P
 ### Running the Application
 
 Start the development server:
+
 ```
 npm run dev
 ```
 
 Or for production:
+
 ```
 npm start
 ```
@@ -49,11 +51,13 @@ npm start
 Upload and process a CSV file.
 
 **Request:**
+
 - Method: POST
 - Content-Type: multipart/form-data
 - Body: Form data with a field named 'csvFile' containing the CSV file
 
 **Response:**
+
 ```json
 {
   "success": true,
@@ -73,6 +77,7 @@ Upload and process a CSV file.
 Health check endpoint.
 
 **Response:**
+
 ```json
 {
   "status": "ok"
@@ -82,6 +87,7 @@ Health check endpoint.
 ## Testing
 
 Run the test suite:
+
 ```
 npm test
 ```
@@ -101,3 +107,6 @@ The application can be configured using environment variables:
 - `DB_PASSWORD`: PostgreSQL password (default: postgres)
 - `DB_NAME`: PostgreSQL database name (default: postgres)
 - `UPLOAD_DIR`: Directory for uploaded files (default: uploads)
+
+Sample Response
+![alt text](image.png)
